@@ -25,11 +25,11 @@ Minha trajetória na tecnologia mistura curiosidade, disciplina e muita paixão 
 ## 📬 Contato
 
 <p>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:umbertomagalhaesbizzo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/">
+  <a href="https://www.linkedin.com/in/umberto-magalh%C3%A3es-bizzo-81109b338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
