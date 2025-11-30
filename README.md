@@ -81,7 +81,7 @@ Sou movido por determinação e pela certeza de que **tecnologia muda vidas — 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ziragn&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ziragn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziragn&layout=compact&theme=tokyonight"/>
 </p>
 
